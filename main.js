@@ -3,7 +3,7 @@ function noteAnimals() {
 
     for (let i = 0; anim.length; i++) {
 
-        window.alert("This zoo contains a " + animals[i] + "");
+        window.alert("This zoo contains a " + anim[i] + ".");
     }
 
 }
